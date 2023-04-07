@@ -1,2 +1,2 @@
 # coding-b
-latihan coding 
+repository untuk testing awal github
