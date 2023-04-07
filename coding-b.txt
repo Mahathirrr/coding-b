@@ -2,3 +2,5 @@ ini hanya lah sebuah tes
 1. aku adalah beta
 2. aku adalah daku
 3. aku adalah kamu
+4. aku bisa python
+5. aku bisa c
